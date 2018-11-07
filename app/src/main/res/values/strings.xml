@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="button_showDefaultDialog">默认对话框</string>
+    <string name="button_showQMUIDialog">QMUI对话框</string>
+</resources>
